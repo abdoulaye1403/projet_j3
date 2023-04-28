@@ -1,0 +1,60 @@
+html {
+  font-size: 14px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.bg{
+  background-color: rgb(123, 125, 126);
+}
+
+.pricing-header {
+  background-image: url('../images/surf.jpg');
+  background-size: cover;
+  height: 575px;
+  background-repeat: no-repeat;
+}
+
+.card-deck .card {
+  min-width: 220px;
+}
+
+.card-image1{
+  background-image: url('../images/photo_surf1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+
+.card-image2{
+  background-image: url('../images/photo_surf2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+
+  html {
+    font-size: 16px;
+  }
+}
+
+
+
+
+
